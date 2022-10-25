@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  margin: 10%;  
+}
+header,footer,article{
+  margin: 10px;
+  padding:  10px;  
+}
+header{
+  text-align: center;
+  background-color: aqua;
+}
+article{
+  background-color: cornsilk ;
+}
+footer{
+  background-color: green;
+  color: yellow;
+}
